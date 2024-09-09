@@ -8,3 +8,9 @@ usethis::git_default_branch_rename(to = "gh-pages")
 usethis::use_github()
 
 
+## installl R packages "postcards", "fontawesome"
+install.packages("postcards")
+install.packages("fontawesome")
+
+## Install Postcards template of choice https://github.com/seankross/postcards
+postcards::create_postcard(template = "solana")
