@@ -1,0 +1,45 @@
+---
+title: "Blair Spence"
+image: "cherry_blossom.jpg"
+links:
+  - label: Georgetown University 
+    url: "https://gufaculty360.georgetown.edu/s/contact/0033600001SyvM0AAJ/amanda-spence"
+  - label: MedStar Health 
+    url: "https://www.medstarhealth.org/doctors/amanda-b-spence-md"
+  - label: My Bibliography 
+    url: "https://www.ncbi.nlm.nih.gov/myncbi/1TMbnXkY5TzAt/bibliography/public/"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Blair Spence is a current student at The John Hopkins University Bloomberg School of Public Health in the Department of Epidemiology. She seeks to understand the contributions of biology, behavior, and social determinants to the development and manifestation of commodities in persons living with HIV as well as to design and implement tailored, acceptable interventions to improve health outcomes in this population.
+
+
+## Education and Training
+**Infectious Disease Fellowship** 
+
+Georgetown University, Department of Medicine, Division of Infectious Disease and Tropical Medicine | Washington, DC 
+
+
+**Internal Medicine Residency** 
+
+University of Louisville, Department of Medicine, Louisville, KY 
+
+
+**Graduate Training**
+
+University of Louisville School of Medicine, Louisville KY | Doctor of Medicine 
+
+
+**Undergraduate Training**
+
+University of Kentucky, Lexington, KY | Bachelor of Science 
+
+
+
+
+
+
